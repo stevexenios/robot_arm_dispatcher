@@ -1,4 +1,4 @@
-# Package Classification System
+# Robot Arm Dispatcher
 
 ## Project Objective
 This project implements a package classification system that sorts packages into different handling categories based on their physical properties (dimensions and mass). The system helps logistics operations by automatically determining how packages should be handled in the sorting process.
